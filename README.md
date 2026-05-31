@@ -69,4 +69,4 @@ Open the terminal/CMD inside this project folder and run:
 `npx http-server`
 
 ## 👨‍💻 Author
-Developed by Ignatius Wilhelmus Kim Kerans for a Web-Based Programming Assignment / Project at Universitas Terbuka.
+Developed by Ignatius Lutfi Maulana for a Web-Based Programming Assignment / Project at Universitas Terbuka.
